@@ -1,0 +1,6 @@
+c:\users\server2\documents\visual studio 2017\Projects\Prototipo\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+c:\users\server2\documents\visual studio 2017\Projects\Prototipo\bin\Debug\Prototipo.exe.config
+c:\users\server2\documents\visual studio 2017\Projects\Prototipo\bin\Debug\Prototipo.exe
+c:\users\server2\documents\visual studio 2017\Projects\Prototipo\bin\Debug\Prototipo.pdb
+c:\users\server2\documents\visual studio 2017\Projects\Prototipo\obj\Debug\Prototipo.exe
+c:\users\server2\documents\visual studio 2017\Projects\Prototipo\obj\Debug\Prototipo.pdb
