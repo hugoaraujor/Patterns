@@ -1,0 +1,6 @@
+c:\users\server2\documents\visual studio 2017\Projects\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+c:\users\server2\documents\visual studio 2017\Projects\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+c:\users\server2\documents\visual studio 2017\Projects\AbstractFactory\bin\Debug\AbstractFactory.exe
+c:\users\server2\documents\visual studio 2017\Projects\AbstractFactory\bin\Debug\AbstractFactory.pdb
+c:\users\server2\documents\visual studio 2017\Projects\AbstractFactory\obj\Debug\AbstractFactory.exe
+c:\users\server2\documents\visual studio 2017\Projects\AbstractFactory\obj\Debug\AbstractFactory.pdb
