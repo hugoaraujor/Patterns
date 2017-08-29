@@ -1,0 +1,6 @@
+c:\users\server2\documents\visual studio 2017\Projects\Factory\bin\Debug\Factory.exe.config
+c:\users\server2\documents\visual studio 2017\Projects\Factory\bin\Debug\Factory.exe
+c:\users\server2\documents\visual studio 2017\Projects\Factory\bin\Debug\Factory.pdb
+c:\users\server2\documents\visual studio 2017\Projects\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+c:\users\server2\documents\visual studio 2017\Projects\Factory\obj\Debug\Factory.exe
+c:\users\server2\documents\visual studio 2017\Projects\Factory\obj\Debug\Factory.pdb
