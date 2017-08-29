@@ -1,0 +1,6 @@
+c:\users\server2\documents\visual studio 2017\Projects\SingletonSample\obj\Debug\SingletonSample.csprojResolveAssemblyReference.cache
+c:\users\server2\documents\visual studio 2017\Projects\SingletonSample\bin\Debug\SingletonSample.exe.config
+c:\users\server2\documents\visual studio 2017\Projects\SingletonSample\bin\Debug\SingletonSample.exe
+c:\users\server2\documents\visual studio 2017\Projects\SingletonSample\bin\Debug\SingletonSample.pdb
+c:\users\server2\documents\visual studio 2017\Projects\SingletonSample\obj\Debug\SingletonSample.exe
+c:\users\server2\documents\visual studio 2017\Projects\SingletonSample\obj\Debug\SingletonSample.pdb
